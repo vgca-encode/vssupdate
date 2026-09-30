@@ -1,4 +1,4 @@
 {
   "Version": "2.0.44",
-  "UpdateUrls": [ "http://localhost:8080/Upload/vssupdate/v2.0.44/VGCASignServiceSetup.msi"]
+  "UpdateUrls": [ "https://vgca-encode.github.io/vssupdate/v2.0.44/VGCASignServiceSetup.msi"]
 }
